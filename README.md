@@ -7,3 +7,10 @@
 
 criar pasta pages 
 # npm run dev
+
+versionando a app
+# git status
+# git add -A
+# git commit -m 'primeira pagina'
+
+# git checkout -b teste // criando nova branch
