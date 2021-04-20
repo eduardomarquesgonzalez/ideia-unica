@@ -3,7 +3,9 @@ function Home(){
     return (
     <div>
         <h1>Home 3</h1>
+        <h6>testando branch de teste</h6>
         <Contador />
+        
     </div>
     )
 }
@@ -21,4 +23,6 @@ function Contador(){
         </div>
     )
 }
+
+
 export default Home
